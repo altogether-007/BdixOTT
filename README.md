@@ -1,10 +1,15 @@
+BdixOTT Playlist And Apps
+
+BdixOTT Apps
+https://github.com/altogether-007/BdixOTT/raw/refs/heads/main/BdixOTT.0.1.apk
+Support On Tv ✅
+
+
 IPTV PLAYLIST
 https://raw.githubusercontent.com/altogether-007/BdixOTT/refs/heads/main/BdixOTT.m3u
 
-https://github.com/altogether-007/BdixOTT/raw/refs/heads/main/BdixOTT.0.1.apk
-
+You can use This playlist thus player
 IPTV Players Link
-
 VLC (Windows): https://www.videolan.org/vlc/
 
 TvMate IPTV Player (Windows) (Recommended) : https://bit.ly/2VoB33Q
