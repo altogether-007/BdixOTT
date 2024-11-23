@@ -1,6 +1,5 @@
 IPTV PLAYLIST
-https://altogether-007.github.io/BdixOTT.m3u
-
+https://raw.githubusercontent.com/altogether-007/BdixOTT/refs/heads/main/BdixOTT.m3u
 
 IPTV Players Link
 
