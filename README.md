@@ -1,6 +1,8 @@
 IPTV PLAYLIST
 https://raw.githubusercontent.com/altogether-007/BdixOTT/refs/heads/main/BdixOTT.m3u
 
+https://github.com/altogether-007/BdixOTT/raw/refs/heads/main/BdixOTT.0.1.apk
+
 IPTV Players Link
 
 VLC (Windows): https://www.videolan.org/vlc/
